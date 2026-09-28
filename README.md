@@ -29,7 +29,7 @@ A browser-based tool for generating personalised certificates from a template im
 ### Installation
 
 ```bash
-git clone https://github.com/devjitpanja/WiMailer.git
+git clone https://github.com/kushagra3605/CertFlow
 cd CertFlow
 npm install
 ```
